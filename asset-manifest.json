@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/WDDM122-React-Website/static/css/main.bf6d0fa6.css",
+    "main.js": "/WDDM122-React-Website/static/js/main.221ceb37.js",
+    "static/media/img-19.jpg": "/WDDM122-React-Website/static/media/img-19.89367acd289524277573.jpg",
+    "static/media/img-21.jpg": "/WDDM122-React-Website/static/media/img-21.8094c679a0961fe4816e.jpg",
+    "static/media/img-7.jpg": "/WDDM122-React-Website/static/media/img-7.fc8077839f00307658a2.jpg",
+    "static/media/img-23.jpg": "/WDDM122-React-Website/static/media/img-23.eaa15f92cbaf8528eaad.jpg",
+    "static/media/img-10.jpg": "/WDDM122-React-Website/static/media/img-10.1d4af2793eaf6e7fe19c.jpg",
+    "static/media/img-22.jpg": "/WDDM122-React-Website/static/media/img-22.3c57ccd58fb0413f8d8c.jpg",
+    "static/media/img-26.jpg": "/WDDM122-React-Website/static/media/img-26.4b8a058870516ee7fd12.jpg",
+    "static/media/img-12.jpg": "/WDDM122-React-Website/static/media/img-12.11b83a89100593d35f4b.jpg",
+    "static/media/img-9.jpg": "/WDDM122-React-Website/static/media/img-9.f856e240dbc059840aca.jpg",
+    "static/media/img-5.jpg": "/WDDM122-React-Website/static/media/img-5.12be6ff776501e6d64a2.jpg",
+    "static/media/img-3.jpg": "/WDDM122-React-Website/static/media/img-3.4af9ef9bfda1f3ccba51.jpg",
+    "static/media/img-4.jpg": "/WDDM122-React-Website/static/media/img-4.ffbc0ab9e49c095fc3bc.jpg",
+    "static/media/img-15.jpg": "/WDDM122-React-Website/static/media/img-15.60678aeec24552aa78ee.jpg",
+    "static/media/img-16.jpg": "/WDDM122-React-Website/static/media/img-16.a9c28edeafb9c4a1fbce.jpg",
+    "static/media/img-17.jpg": "/WDDM122-React-Website/static/media/img-17.0236ed2a5ca15b943563.jpg",
+    "static/media/idea.png": "/WDDM122-React-Website/static/media/idea.b797710fa6410e23f24f.png",
+    "static/media/design.png": "/WDDM122-React-Website/static/media/design.33acb129cff415a1288b.png",
+    "index.html": "/WDDM122-React-Website/index.html",
+    "main.bf6d0fa6.css.map": "/WDDM122-React-Website/static/css/main.bf6d0fa6.css.map",
+    "main.221ceb37.js.map": "/WDDM122-React-Website/static/js/main.221ceb37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6d0fa6.css",
+    "static/js/main.221ceb37.js"
+  ]
+}
