@@ -22,7 +22,6 @@ function App() {
     <Route path="/Portfolio" element={<Portfolio />}/>
     </Routes>
  
-    <Home />
 
     <Contact />
     <Footer />
