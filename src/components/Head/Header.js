@@ -17,10 +17,13 @@ const Header = () => {
                     <div className='navlink'>
                         <ul className='link f_flex uppercase'>
                            
-                            <li><NavLink to="/">Home</NavLink>
+                            <li><NavLink to="/">About</NavLink>
                             </li>
 
                             <li><NavLink to="/Portfolio">Portfolio</NavLink>
+                           </li>
+
+                           <li><NavLink to="/Contact">Contact</NavLink>
                            </li>
 
                             <li><button className='home-btn'>Learn More</button></li>

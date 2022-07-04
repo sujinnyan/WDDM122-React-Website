@@ -20,10 +20,9 @@ function App() {
     <Routes>
     <Route index element={<Home />}/>
     <Route path="/Portfolio" element={<Portfolio />}/>
+    <Route path="/Contact" element={<Contact />}/>
     </Routes>
- 
-
-    <Contact />
+    
     <Footer />
     </>
   );
