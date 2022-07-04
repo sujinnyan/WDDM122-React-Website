@@ -45,8 +45,7 @@ function ImgOverlayExample() {
       <Card.Title className='h2'>Project 2.</Card.Title>
       <Card.Title className='h4'>Art Design</Card.Title>
         <Card.Text className='p'>
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This content is a little bit longer.
+        We were entrusted with developing a brand new website for Saudi Arabia’s capital, Riyadh, in collaboration with AXIS, a top-tier local agency. 
         </Card.Text>
         <button className='btn-arrow'><i className='fa fa-long-arrow-right'></i></button>
       </Card.ImgOverlay>
@@ -58,8 +57,7 @@ function ImgOverlayExample() {
       <Card.Title className='h2'>Project 3.</Card.Title>
       <Card.Title className='h4'>Graphic Design</Card.Title>
         <Card.Text className='p'>
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This content is a little bit longer.
+        A city this size requires a site that can withstand massive server loads. Our team relied on only the most current technologies for developing the server. 
         </Card.Text>
         <button className='btn-arrow'><i className='fa fa-long-arrow-right'></i></button>
       </Card.ImgOverlay>
@@ -71,8 +69,7 @@ function ImgOverlayExample() {
       <Card.Title className='h2'>Project 4.</Card.Title>
       <Card.Title className='h4'>Outdoor Design</Card.Title>
         <Card.Text className='p'>
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This content is a little bit longer.
+        Citizens will discover plenty of useful information about their city on the new site, and it’s also targeted to attract business and tourism.
         </Card.Text>
         <button className='btn-arrow'><i className='fa fa-long-arrow-right'></i></button>
       </Card.ImgOverlay>
@@ -89,8 +86,7 @@ function ImgOverlayExample() {
       <Card.Title className='h2'>Project 5.</Card.Title>
       <Card.Title className='h4'>Branding Design</Card.Title>
         <Card.Text className='p'>
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This content is a little bit longer.
+        There are six primary sections on the site that describe in detail Riyad’s features and provide a complete picture of the metropolis, including history and must-see sites.
         </Card.Text>
         <button className='btn-arrow'><i className='fa fa-long-arrow-right'></i></button>
   </Card.ImgOverlay>
@@ -102,8 +98,7 @@ function ImgOverlayExample() {
       <Card.Title className='h2'>Project 6.</Card.Title>
       <Card.Title className='h4'>Graphic Design</Card.Title>
         <Card.Text className='p'>
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This content is a little bit longer.
+        One of the site’s key functions is The Moment. This interactive city map includes all the business centers with panoramas and 3D imaging.
         </Card.Text>
         <button className='btn-arrow'><i className='fa fa-long-arrow-right'></i></button>
   </Card.ImgOverlay>
@@ -115,8 +110,7 @@ function ImgOverlayExample() {
       <Card.Title className='h2'>Project 7.</Card.Title>
       <Card.Title className='h4'>Graphic Design</Card.Title>
         <Card.Text className='p'>
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This content is a little bit longer.
+        The services and functions of uLesson are linked to its mobile application which lets users register, pass tests, and evaluate their learning progress.
         </Card.Text>
         <button className='btn-arrow'><i className='fa fa-long-arrow-right'></i></button>
   </Card.ImgOverlay>
@@ -128,8 +122,7 @@ function ImgOverlayExample() {
       <Card.Title className='h2'>Project 8.</Card.Title>
       <Card.Title className='h4'>Graphic Design</Card.Title>
         <Card.Text className='p'>
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This content is a little bit longer.
+        The platform offers parents or guardians analytical and data reports to help guide the child’s progress, improve the learning process, and add new subjects.
         </Card.Text>
         <button className='btn-arrow'><i className='fa fa-long-arrow-right'></i></button>
   </Card.ImgOverlay>
