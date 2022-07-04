@@ -10,7 +10,8 @@ const Header = () => {
             <header className='header'>
                 <div className='container d_flex'>
                     <div className='logo'>
-                        <h3>STUDIO J.</h3>
+                    <li><h3><NavLink to="/">STUDIO J.</NavLink>
+                    </h3> </li>
                         </div>
 
                     <div className='navlink'>

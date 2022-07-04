@@ -17,14 +17,12 @@ function App() {
     <>
     <Slide />
     <Header />
-
-  
     <Routes>
     <Route index element={<Home />}/>
     <Route path="/Portfolio" element={<Portfolio />}/>
     </Routes>
  
-
+    <Home />
 
     <Contact />
     <Footer />

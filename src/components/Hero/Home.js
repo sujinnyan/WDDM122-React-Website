@@ -41,7 +41,7 @@ const Home = () => {
 
                  <p>As visual storytellers we transform any concept into a unique visual language with a little bit of magic & fairy dust</p>
 
-          <div className='hero_btn d_flex'>
+          <div className='hero_btn'>
               <div className='col_1'>
                   
                   <div className='button'>

@@ -3,7 +3,16 @@ h3 {
     font-size: 20px !important;
 }
 
-.logo:hover {
+.logo li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(52, 52, 52);
+    transition:  0.5s;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.logo li a:hover {
     cursor: pointer;
     transition:  0.5s;
     color:  #ff014f;
@@ -76,6 +85,10 @@ header ul li a:hover {
 
 
   @media screen and (max-width:700px) {
+
+    header {
+        height: 120px;
+    }
     header .container {
         flex-direction: column;
       }
