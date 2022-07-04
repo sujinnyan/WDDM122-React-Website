@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WDDM122-React-Website/static/css/main.bf6d0fa6.css",
-    "main.js": "/WDDM122-React-Website/static/js/main.221ceb37.js",
+    "main.css": "/WDDM122-React-Website/static/css/main.cd619f2e.css",
+    "main.js": "/WDDM122-React-Website/static/js/main.1fc745de.js",
     "static/media/img-19.jpg": "/WDDM122-React-Website/static/media/img-19.89367acd289524277573.jpg",
     "static/media/img-21.jpg": "/WDDM122-React-Website/static/media/img-21.8094c679a0961fe4816e.jpg",
     "static/media/img-7.jpg": "/WDDM122-React-Website/static/media/img-7.fc8077839f00307658a2.jpg",
@@ -20,11 +20,11 @@
     "static/media/idea.png": "/WDDM122-React-Website/static/media/idea.b797710fa6410e23f24f.png",
     "static/media/design.png": "/WDDM122-React-Website/static/media/design.33acb129cff415a1288b.png",
     "index.html": "/WDDM122-React-Website/index.html",
-    "main.bf6d0fa6.css.map": "/WDDM122-React-Website/static/css/main.bf6d0fa6.css.map",
-    "main.221ceb37.js.map": "/WDDM122-React-Website/static/js/main.221ceb37.js.map"
+    "main.cd619f2e.css.map": "/WDDM122-React-Website/static/css/main.cd619f2e.css.map",
+    "main.1fc745de.js.map": "/WDDM122-React-Website/static/js/main.1fc745de.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf6d0fa6.css",
-    "static/js/main.221ceb37.js"
+    "static/css/main.cd619f2e.css",
+    "static/js/main.1fc745de.js"
   ]
 }
