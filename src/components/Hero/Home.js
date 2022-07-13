@@ -1,13 +1,9 @@
 import React from "react"
 import "./Home.css"
-import gallery1 from "../img/img-3.jpg"
-import gallery2 from "../img/img-4.jpg"
-import gallery3 from "../img/img-5.jpg"
-import gallery4 from "../img/img-7.jpg"
-import icon1 from "../img/imac.png"
-import icon2 from "../img/idea.png"
-import icon3 from "../img/printing.png"
-import icon4 from "../img/design.png"
+import icon1 from "../img/design1.jpeg"
+import icon2 from "../img/design2.jpeg"
+import icon3 from "../img/design3.jpeg"
+
 import { Typewriter } from 'react-simple-typewriter'
 
 
@@ -19,8 +15,8 @@ const Home = () => {
           <section className='hero' id='home'>  
           <div className='container f_flex top'>
               <div className='left top'>
-                  <h3>WELCOME TO STUDIO J.</h3>
-                  <h1>Hello, We are <span>STUDIO J </span></h1>
+                  <h3>WELCOME TO Modic.</h3>
+                  <h1>Hello, We are <span>Modic. </span></h1>
                   <h2>
                       a
                       <span>
@@ -39,7 +35,7 @@ const Home = () => {
 
                 </h2>
 
-                 <p>As visual storytellers we transform any concept into a unique visual language with a little bit of magic & fairy dust</p>
+                 <p>With our online DESIGN preview tool, create a room that reflects the idea you have in mind. All you need to do is choose the furniture and accessories in store, play with the colours and textures, then design the space to your liking. DESIGN ensures all your home décor projects are successful, every time.</p>
 
           <div className='hero_btn'>
               <div className='col_1'>
@@ -70,89 +66,25 @@ const Home = () => {
             <div className='services-container'>
                 <div className='item'>
                 <img src={icon1} alt=""/>
-                <h4>Responsive</h4>
-                <p>Looks great on any screen size!</p>
+
+   
                 </div>
 
                 <div className='item'>
                 <img src={icon2} alt=""/>
-                <h4>Idea</h4>
-                <p>Looks great on any screen size!</p>
-                </div>
 
+                </div>
                 <div className='item'>
                 <img src={icon3} alt=""/>
-                <h4>Print</h4>
-                <p>Looks great on any screen size!</p>
+
                 </div>
 
-                <div className='item'>
-                <img src={icon4} alt=""/>
-                <h4>Design</h4>
-                <p>Looks great on any screen size!</p>
-                </div>
+            
             </div>
        
         </div>
 
       </div>
-
-
-      <div className='image-gallery-section'>
-
-          <div className='gallery'>
-
-              <div className="gallery-item">
-                  <div className='gallery-text'>
-                      <h6><span>Visual Identity</span></h6>
-                  </div>
-                  <img src={gallery1} alt=""/>
-              </div>
-
-
-
-            <div className="gallery-item">
-                <h1>Hello We Are Studio J.</h1>
-                <h2>As visual storytellers we transform any concept into a unique visual language with a little bit of magic & fairy dust</h2>
-                <button className='btn_more'>More</button>
-              </div>
-
-
-            <div className="gallery-item">
-                  <img src={gallery3} alt=""/>
-              </div>
-
-
-            <div className="gallery-item">
-                  <img src={gallery4} alt=""/>
-              </div>
- 
-          </div>
-
-      </div>
-
-
-      {/* <section className='main'>
-
-        <div className='main_container'>
-
-        <div className='left'>
-            <div className='left_img'>
-            <img src={main} alt=""/>
-            </div>
-        </div>
-
-        <div className='right'>
-            <div className='right_img'>
-            <img src={right} alt=""/>
-            </div>
-        </div>
-
-        </div>
-        
-        
-
-    </section> */}
     
         </>
     )

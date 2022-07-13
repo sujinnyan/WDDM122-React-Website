@@ -1,7 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
-import gallery10 from '../img/img-15.jpg';
-import gallery11 from '../img/img-16.jpg';
-import gallery12 from '../img/img-17.jpg';
+import gallery10 from '../img/image-2.jpg';
+import gallery11 from '../img/image-6.jpg';
+import gallery12 from '../img/image-8.jpg';
 import "./Slide.css"
 
 
@@ -9,7 +9,7 @@ import "./Slide.css"
 function UncontrolledExample() {
   return (
 
-    <Carousel>
+    <Carousel className="wrapper-carousel">
       <Carousel.Item>
         <img
           className="d-block w-100"
@@ -18,7 +18,7 @@ function UncontrolledExample() {
         />
         <Carousel.Caption>
             <div className='text-wrapper'>
-            <h1><span>STUDIO J.</span><br></br> is a Toronto-based brand studio; we specialize in creating visual identities for forward-thinking businesses.</h1>
+            <h1><span>Modic.</span><br></br>We create furniture that opens everyones’ eyes to the spaces they already have and the life that’s yet to be lived in them.</h1>
           </div>
 
         </Carousel.Caption>
@@ -33,8 +33,8 @@ function UncontrolledExample() {
 
         <Carousel.Caption>
         <div className='text-wrapper'>
-          <h1><span>STUDIO J.</span><br></br>
-          Discover the world’s first purpose-built historical logo archive. As well as our digital skills</h1>
+          <h1><span>Modic.</span><br></br>
+          it’s safe to say blonde wood is back in style, marking a return to classic and comforting values.</h1>
           </div>
         </Carousel.Caption>
       </Carousel.Item>
@@ -49,8 +49,8 @@ function UncontrolledExample() {
 
         <Carousel.Caption>
         <div className='text-wrapper'>
-        <h1><span>STUDIO J.</span><br></br>
-        We prefer to call ourselves simply Graphic Designers, as that encompasses everything we enjoy doing. </h1>
+        <h1><span>Modic.</span><br></br>
+        Our sectional sofas, loveseats and accent chairs are trendy and versatile. </h1>
           </div>
         </Carousel.Caption>
       </Carousel.Item>

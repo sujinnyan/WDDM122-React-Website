@@ -74,10 +74,6 @@ body {
     }
 }
 
-
-
-
-
 .hero_btn {
     margin-top: 5%;
     justify-content: center;
@@ -130,8 +126,7 @@ body {
     background-color: #fff;
     border-radius: 20px;
     padding: 20px;
-    width: 80px;
-    height: 80px;
+    width: 80%
 }
 
 .item h4 {
@@ -255,12 +250,45 @@ body, html {
     filter: brightness(70%);
 }
 
+.bg-light {
+    width: 500px;
+    margin: 70px 0 50px 0;
+}
 
+.form-label {
+    padding-top: 20px;
+}
 
+.btn-primary {
+    margin: 20px 0 10px 0;
+}
+
+.login-google > h6 {
+    padding-bottom: 20px;
+}
+
+.login-google > span {
+    padding-right: 10px;
+}
 .text-wrapper h1 {
     font-size: 70px;
     font-weight: 100;
 }
+.login-with-google-btn {
+    margin-bottom: 40px;
+}
+
+.wrapper-userInfo {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px 0;
+}
+
+.img-userInfo {
+    width: 70px;
+}
+
 
 
 /* .text-wrapper {

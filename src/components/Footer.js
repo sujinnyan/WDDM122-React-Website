@@ -6,9 +6,9 @@ const Footer = () => {
             <footer>
                 <div className="container text-center top">
                         <div className='logo'>
-                        <h2>STUDIO J.</h2>
+                        <h2>Modic.</h2>
                         </div>
-                    <p>©2022. All right reserved by Studio J.</p>
+                    <p>©2022. All right reserved by Modic.</p>
                 </div>
 
  

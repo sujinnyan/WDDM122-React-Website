@@ -10,24 +10,31 @@ const Header = () => {
             <header className='header'>
                 <div className='container d_flex'>
                     <div className='logo'>
-                    <li><h3><NavLink to="/">STUDIO J.</NavLink>
+                    <li><h3><NavLink to="/Home">Modic.</NavLink>
                     </h3> </li>
                         </div>
 
                     <div className='navlink'>
-                        <ul className='link f_flex uppercase'>
+                        <ul className='link f_flex'>
                            
-                            <li><NavLink to="/">About</NavLink>
-                            </li>
 
-                            <li><NavLink to="/Portfolio">Portfolio</NavLink>
+                           <li><NavLink to="/AddProduct">Market</NavLink>
                            </li>
 
                            <li><NavLink to="/Contact">Contact</NavLink>
                            </li>
 
-                            <li><button className='home-btn'>Learn More</button></li>
+                           <li><NavLink to="/Signup">Sign Up</NavLink>
+                           </li>
+
+                            <li><NavLink to="/Signin" className="home-btn">Sign In</NavLink></li>
+                     
+                        <li>
+                            <button className="fa-solid fa-cart-shopping"></button>
+                        </li>
+
                         </ul>
+
       
                     </div>
 

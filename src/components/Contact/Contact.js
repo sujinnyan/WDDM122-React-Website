@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import "./Contact.css"
-import Image1 from "../img/img-19.jpg"
+import Image1 from "../img/image-15.jpg"
 
 
 const Contact = () => {
@@ -49,7 +49,7 @@ const Contact = () => {
                         </div>
 
                         <div className='details'>
-                            <h1>STUDIO J.</h1>
+                            <h1>Modic.</h1>
                             <p><i className='fa-solid fa-location-arrow'></i>4775 Yonge St, North York, ON M2N 5M5</p>
                             <p>Phone: +1 647 895 8349</p>
                             <p>Email: admin@gmail.com</p>

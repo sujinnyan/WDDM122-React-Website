@@ -12,13 +12,25 @@ h3 {
     letter-spacing: 1px;
 }
 
-.logo li a:hover {
+.logo li:hover {
     cursor: pointer;
     transition:  0.5s;
     color:  #ff014f;
 
 }
+
+.fa-cart-shopping {
+    margin-right: 30px;
+}
+
+.fa-cart-shopping:hover {
+    cursor: pointer;
+    transition:  0.5s;
+    color:  #ff014f;
+}
+
 header{
+    display: block;
     height: 90px;
     overflow: hidden;
     position: fixed; 
